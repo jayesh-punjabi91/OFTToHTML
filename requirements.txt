@@ -1,0 +1,3 @@
+pywin32
+olefile
+Aspose.Email-for-Python-via-NET

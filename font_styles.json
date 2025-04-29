@@ -1,0 +1,10 @@
+{
+  "defaultFontFamily": "Arial, sans-serif",
+  "defaultFontSize": "12px",
+  "heading1FontFamily": "Georgia, serif",
+  "heading1FontSize": "24px",
+  "heading2FontFamily": "Georgia, serif",
+  "heading2FontSize": "20px",
+  "paragraphFontFamily": "Times New Roman, serif",
+  "paragraphFontSize": "14px"
+}

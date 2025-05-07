@@ -6,7 +6,7 @@ It uses the Aspose.Email library to interact with the Outlook message to convert
 ## Prerequisites
 
 - **Create a Virtual Environment**
-- python -m venv venv
+  python -m venv venv
 
 - **Activate the Virtual Environment**
 - source venv/bin/activate  # On macOS/Linux
